@@ -23,6 +23,7 @@
 * [Paperless-ngx](https://docs.paperless-ngx.com/): Document Management
 * [Stirling](https://github.com/Stirling-Tools/Stirling-PDF): PDF editor
 * [Orca](https://dimimikadze.github.io/orca-docs/): Community platform
+* [ChiefOnboarding](https://chiefonboarding.com/): Employee onboarding
 
 ### Ecommerce
 
@@ -49,8 +50,9 @@
 
 * [Mixpost](https://mixpost.app/): Social Media Management
 * [Mautic](https://www.mautic.org/): Marketing Automation
-* [LaudSpeaker](https://laudspeaker.com/): Customer engagement platform
-* [Dittofeed](https://dittofeed.com/): Customer engagement platform
+* [Tracardi](https://tracardi.com/): Customer data and engagement
+* [LaudSpeaker](https://laudspeaker.com/): Customer engagement
+* [Dittofeed](https://dittofeed.com/): Customer engagement
 * [Krayin](https://krayincrm.com/): Laravel CRM
 
 ### Other

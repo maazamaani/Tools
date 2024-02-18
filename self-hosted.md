@@ -52,7 +52,8 @@
 
 * [Mixpost](https://mixpost.app/): Social Media Management
 * [Mautic](https://www.mautic.org/): Marketing Automation
-* [Dittofeed](https://dittofeed.com/): Automation journey builder
+* [LaudSpeaker](https://laudspeaker.com/): Customer engagement platform
+* [Dittofeed](https://dittofeed.com/): Customer engagement platform
 
 ### Other
 

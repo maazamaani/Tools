@@ -24,6 +24,12 @@
 * [Confluence](https://www.atlassian.com/software/confluence): Enterprise Documentation
 * [DocKing](https://docking.shipsaas.tech/): Template management
 * [AppFlowy](https://www.appflowy.io/): AI powered cross platform wiki
+* [Paperless-ngx](https://docs.paperless-ngx.com/): Document Management
+* [Stirling](https://github.com/Stirling-Tools/Stirling-PDF): PDF editor
+
+### Ecommerce
+
+* [Saleor](https://saleor.io/): Ecommerce platform
 
 ### Experiments
 
@@ -37,17 +43,20 @@
 
 * [Directus](https://directus.io/): BaaS and headless CMS
 * [Taipy](https://www.taipy.io/): Low code Python web application builder
-* [Baserow](https://baserow.io/) No code Database
 * [ActivePieces](https://www.activepieces.com/): Task automator
 * [Strapi](https://strapi.io/): Headless CMS
+* [Baserow](https://baserow.io/) No code Database
+* [NocoDB](https://nocodb.com/): No Code Database
 
 ### Marketing
 
 * [Mixpost](https://mixpost.app/): Social Media Management
 * [Mautic](https://www.mautic.org/): Marketing Automation
+* [Dittofeed](https://dittofeed.com/): Automation journey builder
 
 ### Other
 
 * [automatisch](https://automatisch.io/): Task automator
 * [Rallly](https://rallly.co/): Schedule group meetings
 * [Apache Answer](https://answer.apache.org/): Q&A Platform
+* [Rxresu](https://rxresu.me/): Resume builder

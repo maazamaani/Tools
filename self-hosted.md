@@ -8,10 +8,6 @@
 * [Poeticmetric](https://www.poeticmetric.com/): Simple GA4 alternative
 * [Umami](https://umami.is/): Simple GA4 alternative
 
-### CRM
-
-* [Krayin](https://krayincrm.com/): Laravel CRM
-
 ### Data & BI
 
 * [Metabase](https://www.metabase.com/): Business Intelligence
@@ -55,6 +51,7 @@
 * [Mautic](https://www.mautic.org/): Marketing Automation
 * [LaudSpeaker](https://laudspeaker.com/): Customer engagement platform
 * [Dittofeed](https://dittofeed.com/): Customer engagement platform
+* [Krayin](https://krayincrm.com/): Laravel CRM
 
 ### Other
 

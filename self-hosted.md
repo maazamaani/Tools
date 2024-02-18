@@ -24,6 +24,7 @@
 * [Stirling](https://github.com/Stirling-Tools/Stirling-PDF): PDF editor
 * [Orca](https://dimimikadze.github.io/orca-docs/): Community platform
 * [ChiefOnboarding](https://chiefonboarding.com/): Employee onboarding
+* [Gitbook](https://www.gitbook.com/): Knowledge base
 
 ### Ecommerce
 
@@ -61,3 +62,4 @@
 * [Rallly](https://rallly.co/): Schedule group meetings
 * [Apache Answer](https://answer.apache.org/): Q&A Platform
 * [Rxresu](https://rxresu.me/): Resume builder
+* [Crowd.dev](https://github.com/CrowdDotDev): Developers CRM

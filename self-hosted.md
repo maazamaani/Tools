@@ -26,6 +26,7 @@
 * [AppFlowy](https://www.appflowy.io/): AI powered cross platform wiki
 * [Paperless-ngx](https://docs.paperless-ngx.com/): Document Management
 * [Stirling](https://github.com/Stirling-Tools/Stirling-PDF): PDF editor
+* [Orca](https://dimimikadze.github.io/orca-docs/): Community platform
 
 ### Ecommerce
 

@@ -8,6 +8,7 @@
 ## Design
 
 * [Figma](https://figma.com/): Product Design
+* [Pixso](https://pixso.net/): Product Design
 * [Spline](https://spline.design/): 3D Design and animations for web
 * [Lottiefiles](https://lottiefiles.com/): Lightweight animation for web
 

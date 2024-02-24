@@ -55,6 +55,7 @@
 * [LaudSpeaker](https://laudspeaker.com/): Customer engagement
 * [Dittofeed](https://dittofeed.com/): Customer engagement
 * [Krayin](https://krayincrm.com/): Laravel CRM
+* [Rubberstack](https://github.com/rudderlabs/rudder-server): Customer data platform (CDP)
 
 ### Other
 

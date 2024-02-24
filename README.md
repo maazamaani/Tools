@@ -9,5 +9,5 @@ Here is a list of cherry picked and awesome self-hosted services. All of them ar
 
 ### Select a category
 
-* [Self-hosted solutions](https://github.com/maazamaani/Tools/blob/main/self-hosted.md)
+* [Self-hosted](https://github.com/maazamaani/Tools/blob/main/self-hosted.md)
 * [Web apps](https://github.com/maazamaani/Tools/blob/main/web-apps.md)

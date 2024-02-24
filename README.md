@@ -2,10 +2,13 @@
 
 Here is a list of cherry picked and awesome self-hosted services. All of them are gathered with these points in mind:
 
-- [x] **Satisfying UI:** Having GUI with a good visual design
-- [x] **Self-hosted:** Can be run on local server
-- [x] **Open Source:** No vendor lock in in source code
-- [x] **Free for SME:** Can be used freely for at least 200,000 MAU.
+| Point               | Description
+| --------            | --------
+| **Satisfying UI**   | Having GUI with a good visual design
+| **Self-hosted**     | Can be run on local server
+| **Open Source**     | No vendor lock in in source code
+| **Free for SME:**   | Can be used freely for at least 200,000 MAU.
+
 
 ### Select a category
 

@@ -24,7 +24,8 @@
 * [Stirling](https://github.com/Stirling-Tools/Stirling-PDF): PDF editor
 * [Orca](https://dimimikadze.github.io/orca-docs/): Community platform
 * [ChiefOnboarding](https://chiefonboarding.com/): Employee onboarding
-* [Gitbook](https://www.gitbook.com/): Knowledge base
+* [Gitbook](https://www.gitbook.com/): Wiki
+* [Outline](https://www.getoutline.com/): Wiki
 
 ### Ecommerce
 

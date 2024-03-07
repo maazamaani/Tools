@@ -13,7 +13,7 @@
 * [Metabase](https://www.metabase.com/): Business Intelligence
 * [Apache Superset](https://superset.apache.org/): Data Exploration
 * [Kestra](https://kestra.io/): Data orchestration and automation
-* ٍ[Evidence](https://evidence.dev/): Low code SQL data apps
+* [Evidence](https://evidence.dev/): Low code SQL data apps
 
 ### Documentation
 
@@ -26,6 +26,7 @@
 * [ChiefOnboarding](https://chiefonboarding.com/): Employee onboarding
 * [Gitbook](https://www.gitbook.com/): Wiki
 * [Outline](https://www.getoutline.com/): Wiki
+* [Fider](https://fider.io): Feedback collector
 
 ### Ecommerce
 
@@ -65,3 +66,4 @@
 * [Apache Answer](https://answer.apache.org/): Q&A Platform
 * [Rxresu](https://rxresu.me/): Resume builder
 * [Crowd.dev](https://github.com/CrowdDotDev): Developers CRM
+* [Plane](https://plane.so/): Project management

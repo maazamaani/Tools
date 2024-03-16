@@ -5,8 +5,22 @@
 * [Matomo](https://matomo.org/): GA4 alternative
 * [Posthog](https://posthog.com/): GA4 alternative
 * [Swetrix](http://swetrix.com): GA4 alternative
-* [Poeticmetric](https://www.poeticmetric.com/): Simple GA4 alternative
-* [Umami](https://umami.is/): Simple GA4 alternative
+* [Poeticmetric](https://www.poeticmetric.com/): Simple analytics
+* [Umami](https://umami.is/): Simple analytics
+* [Ackee](https://ackee.electerious.com/): Simple analytics
+
+### Automation
+
+* [Windmill](https://www.windmill.dev/): Workflow engine
+* [ActivePieces](https://www.activepieces.com/): Task automator
+* [automatisch](https://automatisch.io/): Task automator
+* [Cypress](https://www.cypress.io/): Test automation
+* [N8N](https://n8n.io/): Workflow automation
+* [Huginn](https://github.com/huginn/huginn): Workflow automation
+
+### CRM
+
+* [EspoCRM](https://www.espocrm.com/download/): CRM
 
 ### Data & BI
 
@@ -32,22 +46,29 @@
 
 * [Saleor](https://saleor.io/): Ecommerce platform
 
+### ERP
+
+* [ERPNext](https://erpnext.com/)
+* [Odoo](https://www.odoo.com/)
+
 ### Experiments
 
 * [Growthbook](https://www.growthbook.io/): Feature flag and A/B Test
 
-### Healthchech
+### Healthcheck
 
 * [Healthchecks](https://healthchecks.io/): Cron job monitoring
 
-### Low Code No Code
+### Low-code No-code & CMS
 
 * [Directus](https://directus.io/): BaaS and headless CMS
-* [Taipy](https://www.taipy.io/): Low code Python web application builder
-* [ActivePieces](https://www.activepieces.com/): Task automator
+* [Taipy](https://www.taipy.io/): Low-code Python web application builder
+* [Ghost](https://ghost.org/): Publishing platform
 * [Strapi](https://strapi.io/): Headless CMS
-* [Baserow](https://baserow.io/) No code Database
-* [NocoDB](https://nocodb.com/): No Code Database
+* [Baserow](https://baserow.io/) No-code database
+* [NocoDB](https://nocodb.com/): No-code database
+* [NocoBase](https://www.nocobase.com/): Customizable no-code infrastructure
+* [Node-Red](https://nodered.org/): Hardware low-code programming
 
 ### Marketing
 
@@ -59,11 +80,16 @@
 * [Krayin](https://krayincrm.com/): Laravel CRM
 * [Rubberstack](https://github.com/rudderlabs/rudder-server): Customer data platform (CDP)
 
+### Project Management
+
+* [Focalboard](https://www.focalboard.com/)
+* * [Plane](https://plane.so/)
+
 ### Other
 
-* [automatisch](https://automatisch.io/): Task automator
 * [Rallly](https://rallly.co/): Schedule group meetings
 * [Apache Answer](https://answer.apache.org/): Q&A Platform
 * [Rxresu](https://rxresu.me/): Resume builder
 * [Crowd.dev](https://github.com/CrowdDotDev): Developers CRM
-* [Plane](https://plane.so/): Project management
+* [Hoppscotch](https://hoppscotch.io/): Postman alternative
+* [Firefish](https://joinfirefish.org/): Microblog and social media

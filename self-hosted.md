@@ -83,7 +83,7 @@
 ### Project Management
 
 * [Focalboard](https://www.focalboard.com/)
-* * [Plane](https://plane.so/)
+* [Plane](https://plane.so/)
 
 ### Other
 

@@ -83,7 +83,8 @@
 ### Project Management
 
 * [Focalboard](https://www.focalboard.com/)
-* [Plane](https://plane.so/)
+* [Plane](https://plane.so/): Alternative for Jira and Notion
+* [Huly](https://huly.io/): Alternative for Jira, Slack and Notion
 
 ### Other
 

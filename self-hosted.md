@@ -11,23 +11,27 @@
 
 ### Automation
 
-* [Windmill](https://www.windmill.dev/): Workflow engine
 * [ActivePieces](https://www.activepieces.com/): Task automator
+* [Airflow](https://airflow.apache.org/): workflow management
 * [automatisch](https://automatisch.io/): Task automator
 * [Cypress](https://www.cypress.io/): Test automation
 * [N8N](https://n8n.io/): Workflow automation
 * [Huginn](https://github.com/huginn/huginn): Workflow automation
-
-### CRM
-
-* [EspoCRM](https://www.espocrm.com/download/): CRM
+* [Windmill](https://www.windmill.dev/): Workflow engine
+* [MindsDB](https://mindsdb.com/): AI data automation and customization
 
 ### Data & BI
 
 * [Metabase](https://www.metabase.com/): Business Intelligence
 * [Apache Superset](https://superset.apache.org/): Data Exploration
 * [Kestra](https://kestra.io/): Data orchestration and automation
-* [Evidence](https://evidence.dev/): Low code SQL data apps
+* [Graylog](https://graylog.org/): Log management
+* [Redash](https://github.com/getredash/redash): Data visualization
+* [Prometheus](https://github.com/prometheus/prometheus): Monitoring system and time-series database
+* [Kibana](https://www.elastic.co/kibana/): Data visualization (part of ELK)
+* [Logstash](https://www.elastic.co/logstash): Data pipelines
+* [Bytebase](https://www.bytebase.com/): Database development platform
+
 
 ### Documentation
 
@@ -46,10 +50,11 @@
 
 * [Saleor](https://saleor.io/): Ecommerce platform
 
-### ERP
+### ERP and CRM
 
 * [ERPNext](https://erpnext.com/)
-* [Odoo](https://www.odoo.com/)
+* [Odoo](https://www.odoo.com/): ERP and CRM
+* [EspoCRM](https://www.espocrm.com/download/): CRM
 
 ### Experiments
 
@@ -61,7 +66,9 @@
 
 ### Low-code No-code & CMS
 
+* [Appsmith](https://www.appsmith.com/): Internal tool builder
 * [Directus](https://directus.io/): BaaS and headless CMS
+* [Evidence](https://evidence.dev/): Low code SQL data apps
 * [Taipy](https://www.taipy.io/): Low-code Python web application builder
 * [Ghost](https://ghost.org/): Publishing platform
 * [Strapi](https://strapi.io/): Headless CMS
@@ -86,11 +93,15 @@
 * [Plane](https://plane.so/): Alternative for Jira and Notion
 * [Huly](https://huly.io/): Alternative for Jira, Slack and Notion
 
+### Social and Community
+
+* [Firefish](https://joinfirefish.org/): Microblog and social media
+* [Discourse](https://www.discourse.org/): community management
+* [Apache Answer](https://answer.apache.org/): Q&A Platform
+
 ### Other
 
 * [Rallly](https://rallly.co/): Schedule group meetings
-* [Apache Answer](https://answer.apache.org/): Q&A Platform
 * [Rxresu](https://rxresu.me/): Resume builder
 * [Crowd.dev](https://github.com/CrowdDotDev): Developers CRM
 * [Hoppscotch](https://hoppscotch.io/): Postman alternative
-* [Firefish](https://joinfirefish.org/): Microblog and social media

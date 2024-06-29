@@ -20,21 +20,18 @@
 * [Windmill](https://www.windmill.dev/): Workflow engine
 * [MindsDB](https://mindsdb.com/): AI data automation and customization
 * [Domino](https://www.domino-workflows.io/): Workflow engine (on top of airflow)
+* [Rundeck](https://www.rundeck.com/): Runbook automation
 
 ### Data & BI
 
 * ★ [Metabase](https://www.metabase.com/): Business Intelligence
 * [Apache Superset](https://superset.apache.org/): Data Exploration
 * [Kestra](https://kestra.io/): Data orchestration and automation
-* [Graylog](https://graylog.org/): Log management
 * [Redash](https://github.com/getredash/redash): Data visualization
-* [Prometheus](https://github.com/prometheus/prometheus): Monitoring system and time-series database
 * [Kibana](https://www.elastic.co/kibana/): Data visualization (part of ELK)
 * [Logstash](https://www.elastic.co/logstash): Data pipelines (part of ELK)
 * [Bytebase](https://www.bytebase.com/): Database development platform
 * [Observable](https://observablehq.com/): Static data app generator
-* [Datadog](https://www.datadoghq.com/): Data monitoring platform
-* [Uptrace](https://uptrace.dev/): Observability platform
 * [Prefect](https://www.prefect.io/): Data workflow orchestration
 * [Dagster](https://dagster.io/): Data pipeline orchestrator
 
@@ -91,6 +88,16 @@
 * [Krayin](https://krayincrm.com/): Laravel CRM
 * [Rubberstack](https://github.com/rudderlabs/rudder-server): Customer data platform (CDP)
 
+### Monitoring
+
+* [Uptime kuma](https://github.com/louislam/uptime-kuma): Monitoring and Alerting
+* [Graylog](https://graylog.org/): Log management
+* [Prometheus](https://github.com/prometheus/prometheus): Monitoring system and time-series database
+* [Datadog](https://www.datadoghq.com/): Data monitoring platform
+* [Uptrace](https://uptrace.dev/): Observability platform
+* [Change Detection](https://changedetection.io/): Page change monitoring
+* [Gatus](https://github.com/TwiN/gatus): Status monitoring
+
 ### Project Management
 
 * [Focalboard](https://www.focalboard.com/)
@@ -102,6 +109,9 @@
 * [Firefish](https://joinfirefish.org/): Microblog and social media
 * [Discourse](https://www.discourse.org/): community management
 * [Apache Answer](https://answer.apache.org/): Q&A Platform
+* [Element](https://element.io/): Messaging and collaboration
+* [Mastodon](https://joinmastodon.org/): Social network
+* [Netdata](https://www.netdata.cloud/): Monitoring platform
 
 ### Other
 
@@ -113,3 +123,5 @@
 * [Growthbook](https://www.growthbook.io/): Feature flag and A/B Test
 * [Saleor](https://saleor.io/): Ecommerce platform
 * [Elsa](https://v3.elsaworkflows.io/): .Net workflow manager
+* [Formbricks](https://github.com/formbricks/formbricks): Survey platform
+* [Easypanel](https://easypanel.io/): Server control panel

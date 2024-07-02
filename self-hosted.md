@@ -3,24 +3,23 @@
 ### Analytics
 
 * [Matomo](https://matomo.org/): GA4 alternative ![GitHub Repo stars](https://img.shields.io/github/stars/matomo-org/matomo?link=https%3A%2F%2Fgithub.com%2Fmatomo-org%2Fmatomo)
-* [Posthog](https://posthog.com/): GA4 alternative
-* [Swetrix](http://swetrix.com): GA4 alternative
-* [Poeticmetric](https://www.poeticmetric.com/): Simple analytics
-* [Umami](https://umami.is/): Simple analytics
-* [Ackee](https://ackee.electerious.com/): Simple analytics
+* [Posthog](https://posthog.com/): GA4 alternative ![GitHub Repo stars](https://img.shields.io/github/stars/PostHog/posthog?link=https%3A%2F%2Fgithub.com%2FPostHog%2Fposthog)
+* [Poeticmetric](https://www.poeticmetric.com/): Simple analytics ![GitHub Repo stars](https://img.shields.io/github/stars/th0th/poeticmetric?link=https%3A%2F%2Fgithub.com%2Fth0th%2Fpoeticmetric)
+* [Umami](https://umami.is/): Simple analytics ![GitHub Repo stars](https://img.shields.io/github/stars/umami-software/umami?link=https%3A%2F%2Fgithub.com%2Fumami-software%2Fumami)
+* [Ackee](https://ackee.electerious.com/): Simple analytics ![GitHub Repo stars](https://img.shields.io/github/stars/electerious/Ackee?link=https%3A%2F%2Fgithub.com%2Felecterious%2FAckee)
 
 ### Automation
 
-* [ActivePieces](https://www.activepieces.com/): Task automator
-* [Airflow](https://airflow.apache.org/): workflow management
-* [automatisch](https://automatisch.io/): Task automator
-* [Cypress](https://www.cypress.io/): Test automation
-* [N8N](https://n8n.io/): Workflow automation
-* [Huginn](https://github.com/huginn/huginn): Workflow automation
-* [Windmill](https://www.windmill.dev/): Workflow engine
-* [MindsDB](https://mindsdb.com/): AI data automation and customization
+* [ActivePieces](https://www.activepieces.com/): Task automator ![GitHub Repo stars](https://img.shields.io/github/stars/activepieces/activepieces?link=https%3A%2F%2Fgithub.com%2Factivepieces%2Factivepieces)
+* [Airflow](https://airflow.apache.org/): workflow management ![GitHub Repo stars](https://img.shields.io/github/stars/apache/airflow?link=https%3A%2F%2Fgithub.com%2Fapache%2Fairflow)
+* [automatisch](https://automatisch.io/): Task automator ![GitHub Repo stars](https://img.shields.io/github/stars/automatisch/automatisch?link=https%3A%2F%2Fgithub.com%2Fautomatisch%2Fautomatisch)
+* [Cypress](https://www.cypress.io/): Test automation ![GitHub Repo stars](https://img.shields.io/github/stars/cypress-io/cypress?link=https%3A%2F%2Fgithub.com%2Fcypress-io%2Fcypress)
+* [N8N](https://n8n.io/): Workflow automation ![GitHub Repo stars](https://img.shields.io/github/stars/n8n-io/n8n?link=https%3A%2F%2Fgithub.com%2Fn8n-io%2Fn8n)
+* [Huginn](https://github.com/huginn/huginn): Workflow automation ![GitHub Repo stars](https://img.shields.io/github/stars/huginn/huginn?link=https%3A%2F%2Fgithub.com%2Fhuginn%2Fhuginn)
+* [Windmill](https://www.windmill.dev/): Workflow engine ![GitHub Repo stars](https://img.shields.io/github/stars/windmill-labs/windmill?link=https%3A%2F%2Fgithub.com%2Fwindmill-labs%2Fwindmill)
+* [MindsDB](https://mindsdb.com/): AI data automation and customization ![GitHub Repo stars](https://img.shields.io/github/stars/mindsdb/mindsdb?link=https%3A%2F%2Fgithub.com%2Fmindsdb%2Fmindsdb)
 * [Domino](https://www.domino-workflows.io/): Workflow engine (on top of airflow)
-* [Rundeck](https://www.rundeck.com/): Runbook automation
+* [Rundeck](https://www.rundeck.com/): Runbook automation ![GitHub Repo stars](https://img.shields.io/github/stars/rundeck/rundeck?link=https%3A%2F%2Fgithub.com%2Frundeck%2Frundeck)
 
 ### Data & BI
 

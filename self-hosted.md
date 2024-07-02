@@ -23,16 +23,16 @@
 
 ### Data & BI
 
-* ★ [Metabase](https://www.metabase.com/): Business Intelligence
-* [Apache Superset](https://superset.apache.org/): Data Exploration
-* [Kestra](https://kestra.io/): Data orchestration and automation
-* [Redash](https://github.com/getredash/redash): Data visualization
-* [Kibana](https://www.elastic.co/kibana/): Data visualization (part of ELK)
-* [Logstash](https://www.elastic.co/logstash): Data pipelines (part of ELK)
-* [Bytebase](https://www.bytebase.com/): Database development platform
+* ★ [Metabase](https://www.metabase.com/): Business Intelligence ![GitHub Repo stars](https://img.shields.io/github/stars/metabase/metabase?link=https%3A%2F%2Fgithub.com%2Fmetabase%2Fmetabase)
+* [Apache Superset](https://superset.apache.org/): Data Exploration ![GitHub Repo stars](https://img.shields.io/github/stars/apache/superset?link=https%3A%2F%2Fgithub.com%2Fapache%2Fsuperset)
+* [Kestra](https://kestra.io/): Data orchestration and automation ![GitHub Repo stars](https://img.shields.io/github/stars/kestra-io/kestra?link=https%3A%2F%2Fgithub.com%2Fkestra-io%2Fkestra)
+* [Redash](https://github.com/getredash/redash): Data visualization ![GitHub Repo stars](https://img.shields.io/github/stars/getredash/redash?link=https%3A%2F%2Fgithub.com%2Fgetredash%2Fredash)
+* [Kibana](https://www.elastic.co/kibana/): Data visualization (part of ELK) ![GitHub Repo stars](https://img.shields.io/github/stars/elastic/kibana?link=https%3A%2F%2Fgithub.com%2Felastic%2Fkibana)
+* [Logstash](https://www.elastic.co/logstash): Data pipelines (part of ELK) ![GitHub Repo stars](https://img.shields.io/github/stars/elastic/logstash?link=https%3A%2F%2Fgithub.com%2Felastic%2Flogstash)
+* [Bytebase](https://www.bytebase.com/): Database development platform ![GitHub Repo stars](https://img.shields.io/github/stars/bytebase/bytebase?link=https%3A%2F%2Fgithub.com%2Fbytebase%2Fbytebase)
 * [Observable](https://observablehq.com/): Static data app generator
-* [Prefect](https://www.prefect.io/): Data workflow orchestration in python
-* [Dagster](https://dagster.io/): Data pipeline orchestrator
+* [Prefect](https://www.prefect.io/): Data workflow orchestration in python ![GitHub Repo stars](https://img.shields.io/github/stars/PrefectHQ/prefect?link=https%3A%2F%2Fgithub.com%2FPrefectHQ%2Fprefect)
+* [Dagster](https://dagster.io/): Data pipeline orchestrator ![GitHub Repo stars](https://img.shields.io/github/stars/dagster-io/dagster?link=https%3A%2F%2Fgithub.com%2Fdagster-io%2Fdagster)
 
 ### Documentation
 

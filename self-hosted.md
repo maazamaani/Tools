@@ -2,7 +2,7 @@
 
 ### Analytics
 
-* [Matomo](https://matomo.org/): GA4 alternative
+* [Matomo](https://matomo.org/): GA4 alternative ![GitHub Repo stars](https://img.shields.io/github/stars/matomo-org/matomo?link=https%3A%2F%2Fgithub.com%2Fmatomo-org%2Fmatomo)
 * [Posthog](https://posthog.com/): GA4 alternative
 * [Swetrix](http://swetrix.com): GA4 alternative
 * [Poeticmetric](https://www.poeticmetric.com/): Simple analytics
@@ -32,7 +32,7 @@
 * [Logstash](https://www.elastic.co/logstash): Data pipelines (part of ELK)
 * [Bytebase](https://www.bytebase.com/): Database development platform
 * [Observable](https://observablehq.com/): Static data app generator
-* [Prefect](https://www.prefect.io/): Data workflow orchestration
+* [Prefect](https://www.prefect.io/): Data workflow orchestration in python
 * [Dagster](https://dagster.io/): Data pipeline orchestrator
 
 ### Documentation

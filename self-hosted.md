@@ -114,6 +114,7 @@
 
 ### Other
 
+* ★ [OpenReplay](https://openreplay.com/): Session replay and co-browsing
 * [Rallly](https://rallly.co/): Schedule group meetings
 * [Rxresu](https://rxresu.me/): Resume builder
 * [Crowd.dev](https://github.com/CrowdDotDev): Developers CRM

@@ -36,6 +36,7 @@
 
 ### Documentation
 
+* [Scalar](https://scalar.com/): API Documentation
 * [Confluence](https://www.atlassian.com/software/confluence): Enterprise Documentation
 * [DocKing](https://docking.shipsaas.tech/): Template management
 * [AppFlowy](https://www.appflowy.io/): AI powered cross platform wiki
@@ -125,3 +126,4 @@
 * [Elsa](https://v3.elsaworkflows.io/): .Net workflow manager
 * [Formbricks](https://github.com/formbricks/formbricks): Survey platform
 * [Easypanel](https://easypanel.io/): Server control panel
+* [Cortex](https://cortex.so/): Local LLMs

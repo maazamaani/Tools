@@ -76,6 +76,7 @@
 * ★ [Supabase](https://supabase.com/): BaaS and firebase alternative
 * [Xata](https://xata.io/): Data platform for postgres
 * [PlanetScale](https://planetscale.com/): Mysql database platform
+* [Payload](https://payloadcms.com/): Next.js backend inside /app directory
 
 
 ### Marketing

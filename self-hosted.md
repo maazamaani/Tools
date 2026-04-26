@@ -36,6 +36,7 @@
 
 ### Documentation
 
+* [CatWiki](https://github.com/bulolo/CatWiki/blob/main/README_EN.md): Easy Wiki + RAG + AI
 * [Scalar](https://scalar.com/): API Documentation
 * [Confluence](https://www.atlassian.com/software/confluence): Enterprise Documentation
 * [DocKing](https://docking.shipsaas.tech/): Template management

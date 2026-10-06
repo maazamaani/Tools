@@ -24,7 +24,7 @@
 ### Data & BI
 
 * ★ [Metabase](https://www.metabase.com/): Business Intelligence ![GitHub Repo stars](https://img.shields.io/github/stars/metabase/metabase?link=https%3A%2F%2Fgithub.com%2Fmetabase%2Fmetabase)
-* * [Cube](https://github.com/cube-js/cube): BI Semantic Layer ![GitHub Repo stars](https://img.shields.io/github/stars/apache/superset?link=https%3A%2F%2Fgithub.com%2Fcube-js%2Fcube)
+* [Cube](https://github.com/cube-js/cube): BI Semantic Layer ![GitHub Repo stars](https://img.shields.io/github/stars/apache/superset?link=https%3A%2F%2Fgithub.com%2Fcube-js%2Fcube)
 * [Apache Superset](https://superset.apache.org/): Data Exploration ![GitHub Repo stars](https://img.shields.io/github/stars/apache/superset?link=https%3A%2F%2Fgithub.com%2Fapache%2Fsuperset)
 * [Kestra](https://kestra.io/): Data orchestration and automation ![GitHub Repo stars](https://img.shields.io/github/stars/kestra-io/kestra?link=https%3A%2F%2Fgithub.com%2Fkestra-io%2Fkestra)
 * [Redash](https://github.com/getredash/redash): Data visualization ![GitHub Repo stars](https://img.shields.io/github/stars/getredash/redash?link=https%3A%2F%2Fgithub.com%2Fgetredash%2Fredash)
